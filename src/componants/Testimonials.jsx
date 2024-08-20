@@ -8,7 +8,7 @@ const Testimonials = () => {
     return (
         <div className='grid md:grid-cols-2 grid-col-1 items-center mt-20 md:gap-0 gap-4'>
             <div className='m-auto md:order-1 order-2'>
-                <img src={custumer} alt="" width={400} height={400} className='pl-10'/>
+                <img src={custumer} alt="" width={400} height={400} className=''/>
             </div>
             <div className='font-bold flex flex-col gap-4 md:pl-10 pl-0 md:order-2 order-1'>
                 <div className='text-lg text-red uppercase'>Testimonials</div>

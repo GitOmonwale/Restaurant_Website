@@ -50,7 +50,7 @@ const Footer = () => {
       </div>
 
       <div className='flex items-center md:gap-20 gap-4 text-gray md:mt-3 mt-10 flex-wrap'>
-        <div className='flex gap-5 md:text-3xl text-2xl'>
+        <div className='flex gap-5 md:text-2xl text-xl'>
           <div className='flex items-center justify-center rounded-full group hover:bg-green group p-4 bg-[#EDFFEF]'>
             <FiFacebook cLassName='text-gray group-hover:text-white' />
           </div>

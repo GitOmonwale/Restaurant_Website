@@ -29,7 +29,7 @@ const SpecialDishesCard = ({ data }) => {
                             </div>
                         </div>
                         <div 
-                            className='absolute top-0 right-0 h-16 w-16 rounded-tr-3xl rounded-bl-3xl bg-green flex items-center justify-center cursor-pointer'
+                            className='absolute top-0 right-0 sm:h-16 h-10 sm:w-16 w-10 rounded-tr-3xl rounded-bl-3xl bg-green flex items-center justify-center cursor-pointer'
                             onClick={toggleFavorite} 
                         >
                             {isFavorite ? (

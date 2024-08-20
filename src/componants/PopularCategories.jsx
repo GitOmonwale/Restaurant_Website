@@ -12,7 +12,7 @@ const dataCategories = [
 ]
 const PopularCategories = () => {
   return (
-    <div className='text-center mt-20'>
+    <div className='text-center sm:mt-20 mt-28'>
     <h3 className='text-red uppercase font-bold text-lg'>Customer Favorites</h3>
       <h2 className='md:text-4xl text-2xl  font-bold mb-5'>Popular Categories</h2>
       <div className='grid md:grid-cols-4 grid-cols-2 md:gap-8 gap-4' >

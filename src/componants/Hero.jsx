@@ -35,7 +35,7 @@ const Hero = () => {
                         <img src={hero} alt="" className='absolute m-auto -left-3 -bottom-3 w-[800px] h-[500px]' />
                         <img src={comment} alt="comment" className='absolute -top-14 -left-44 z-20 md:flex hidden' />
                     </div>
-                    <div className='flex items-center justify-center gap-8 absolute bottom-0 flex-wrap'>
+                    <div className='flex items-center justify-center gap-8 absolute sm:bottom-0 -bottom-20 flex-wrap'>
                         <div className='rounded-xl bg-white flex gap-4 p-2 font-bold shadow-lg'>
                             <img src={food1} alt="" width={70} height={100} className='rounded-xl' />
                             <div className='flex flex-col gap-1'>

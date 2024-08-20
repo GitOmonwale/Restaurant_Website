@@ -20,7 +20,7 @@ const Services = () => {
                 <div className='text-gray font-bold'>
                     Rooted in passion, we curate unforgettable dining experiences and offer exceptional services, blending culinary artistry with warm hospitality.
                 </div>
-                <button className="text-white py-2 px-4 rounded-2xl bg-green flex gap-2 items-center max-w-40">
+                <button className="text-white py-2 px-4 rounded-2xl bg-green flex gap-2 items-center max-w-24">
                     Explore
                 </button>
             </div>
