@@ -6,7 +6,7 @@ import { FiYoutube } from "react-icons/fi";
 import { MdCopyright } from "react-icons/md";
 const Footer = () => {
   return (
-    <footer className="mt-20 m-10">
+    <footer className="mt-20 mb-10">
       <div className='grid md:grid-cols-4 grid-cols-2 gap-2'>
         <div className='flex flex-col max-w-80 gap-2'>
           <h1 className="font-extrabold text-3xl">

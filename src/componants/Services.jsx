@@ -24,7 +24,7 @@ const Services = () => {
                     Explore
                 </button>
             </div>
-            <div className='grid sm:grid-cols-2 grid-cols-2 gap-4'>
+            <div className='grid sm:grid-cols-2 grid-cols-1 gap-4'>
                 <ServicesCard data={dataServices} />
             </div>
         </div>
