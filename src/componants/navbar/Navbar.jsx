@@ -81,7 +81,7 @@ function NavBar() {
             <AnimatePresence>
                 {isOpen && (
                     <motion.div 
-                        className="md:hidden flex flex-col items-center mt-4 bg-white shadow-md overflow-hidden"
+                        className="md:hidden flex flex-col items-center mt-4 bg-white shadow-sm rounded-md overflow-hidden"
                         initial="hidden"
                         animate="visible"
                         exit="hidden"

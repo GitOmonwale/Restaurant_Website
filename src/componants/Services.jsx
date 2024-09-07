@@ -13,7 +13,7 @@ const dataServices = [
 
 const Services = () => {
     return (
-        <div className='grid sm:grid-cols-2 grid-cols-1 lg:gap-10 gap-5 mt-20'>
+        <div className='grid md:grid-cols-2 grid-cols-1 lg:gap-10 gap-5 mt-20'>
             <div className='flex flex-col gap-4'>
                 <h3 className='text-lg uppercase text-red'>Our Story & Services</h3>
                 <h2 className='md:text-4xl text-2xl font-bold'>Our Culinary Journey And Services</h2>
